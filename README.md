@@ -1,6 +1,5 @@
 # Statistika-Probabilitas
-Probability and Statistics 2024 Repository
-
+**Probability and Statistics 2024 Repository**
 |             Nama              |     NRP    |    Class   |
 |-------------------------------|------------|------------|
 | Danar Bagus Rasendriya        | 5027231055 | ProbStat B |
